@@ -1,0 +1,1 @@
+lowlevel -> curl -X POST -H "Content-Type: application/json" --data '{"make": "xyz", "model": "xzy"}' http://localhost:80/api/guitar
